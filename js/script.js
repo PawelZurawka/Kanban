@@ -1,5 +1,5 @@
 'use strict';
-
+//RANDOM ID NUMBER
 document.addEventListener('DOMContentLoaded', function() {
   function randomString() {
     var chars = '0123456789abcdefghiklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXTZ';
